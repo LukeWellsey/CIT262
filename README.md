@@ -1,7 +1,3 @@
-# Fake Instructions
+# About Me
 
-'npm install'
-
-#To run tests
-
-'npm run test'
+'My name is **Luke Wells**'
